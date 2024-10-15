@@ -1,4 +1,4 @@
-SAMUS - **S**ecurity **A**nd **M**onitoring **U**tility **S**ervice
+## SAMUS - **S**ecurity **A**nd **M**onitoring **U**tility **S**ervice
 
 This is a concept project to create a sensor with the following features:
 
